@@ -1,4 +1,5 @@
 Overview
+-------------------------------------------------------------------------------------------------------------------------------------------------
 This project is a full‑stack web application built using the MEAN stack (MongoDB, Express.js, Angular, Node.js). It was developed as part 
 of a follow‑along course in which the instructor guided the frontend and backend structure, while all RESTful API endpoints were 
 implemented independently.
@@ -24,12 +25,14 @@ Tech Stack:
 • JavaScript – Client-side logic
 
 
-Frontend & Templating:
+Frontend & Templating
+--------------------------------------------------------------------------------------------------------------------------------------------------
 Handlebars was used to reduce repetitive HTML by creating reusable partials and layouts.
 CSS styles the UI with a clean, consistent layout.
 JavaScript adds dynamic behavior and client-side validation.
 
-Learning Goals:
+Learning Goals
+-------------------------------------------------------------------------------------------------------------------------------------------------
 This project was designed to strengthen understanding of:
 • Full‑stack architecture
 • API design and CRUD operations
