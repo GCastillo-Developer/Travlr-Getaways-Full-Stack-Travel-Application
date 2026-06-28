@@ -15,25 +15,31 @@ CSS Styling — Custom styles for layout, spacing, and visual consistency.
 JavaScript Logic — Adds interactivity and client-side behavior.
 
 Tech Stack
-Node.js – Runtime environment
-Express.js – Backend framework
-MongoDB + Mongoose – Database and ODM
-Angular – Frontend framework
-Handlebars (HBS) – HTML templating
-CSS – Styling
-JavaScript – Client-side logic
+• Node.js – Runtime environment
+
+• Express.js – Backend framework
+
+• MongoDB + Mongoose – Database and ODM
+
+• Angular – Frontend framework
+
+• Handlebars (HBS) – HTML templating
+
+• CSS – Styling
+
+• JavaScript – Client-side logic
 
 
-Frontend & Templating
+Frontend & Templating:
 Handlebars was used to reduce repetitive HTML by creating reusable partials and layouts.
 CSS styles the UI with a clean, consistent layout.
 JavaScript adds dynamic behavior and client-side validation.
 
-Learning Goals
+Learning Goals:
 This project was designed to strengthen understanding of:
 • Full‑stack architecture
 • API design and CRUD operations
-Angular component structure
-Server-side templating
-Database modeling
-Styling and UI organization
+• Angular component structure
+• Server-side templating
+• Database modeling
+• Styling and UI organization
