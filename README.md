@@ -31,8 +31,8 @@ JavaScript adds dynamic behavior and client-side validation.
 
 Learning Goals
 This project was designed to strengthen understanding of:
-Full‑stack architecture
-API design and CRUD operations
+• Full‑stack architecture
+• API design and CRUD operations
 Angular component structure
 Server-side templating
 Database modeling
