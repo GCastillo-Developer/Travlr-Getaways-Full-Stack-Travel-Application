@@ -5,28 +5,22 @@ implemented independently.
 The application demonstrates core CRUD operations, modular server architecture, templating with Handlebars, and UI styling with CSS and 
 JavaScript.
 
-Features
-MongoDB Integration — Stores application data in a NoSQL database.
-Express.js Server — Handles routing, middleware, and API logic.
-Custom RESTful API Endpoints — All CRUD endpoints were built independently without instructor assistance.
-Angular Frontend — Provides dynamic UI rendering and component-based structure.
-Handlebars Templating — Used to organize and reuse repetitive HTML structures.
-CSS Styling — Custom styles for layout, spacing, and visual consistency.
-JavaScript Logic — Adds interactivity and client-side behavior.
+Features:
+• MongoDB Integration — Stores application data in a NoSQL database.
+• Express.js Server — Handles routing, middleware, and API logic.
+• Custom RESTful API Endpoints — All CRUD endpoints were built independently without instructor assistance.
+• Angular Frontend — Provides dynamic UI rendering and component-based structure.
+• Handlebars Templating — Used to organize and reuse repetitive HTML structures.
+• CSS Styling — Custom styles for layout, spacing, and visual consistency.
+• JavaScript Logic — Adds interactivity and client-side behavior.
 
-Tech Stack
+Tech Stack:
 • Node.js – Runtime environment
-
 • Express.js – Backend framework
-
 • MongoDB + Mongoose – Database and ODM
-
 • Angular – Frontend framework
-
 • Handlebars (HBS) – HTML templating
-
 • CSS – Styling
-
 • JavaScript – Client-side logic
 
 
